@@ -1,4 +1,4 @@
-from code_eval.eval_1 import func_1
+from code_eval.eval_1 import eval_func
 
-def test_func_1():
-    assert func_1() == 1
+def test_eval_func():
+    assert eval_func() == 1
